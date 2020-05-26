@@ -1,0 +1,7 @@
+C:\Users\iorgo\OneDrive\Рабочий стол\Програмиране\dz\dz\bin\Debug\dz.exe.config
+C:\Users\iorgo\OneDrive\Рабочий стол\Програмиране\dz\dz\bin\Debug\dz.exe
+C:\Users\iorgo\OneDrive\Рабочий стол\Програмиране\dz\dz\bin\Debug\dz.pdb
+C:\Users\iorgo\OneDrive\Рабочий стол\Програмиране\dz\dz\obj\Debug\dz.csprojAssemblyReference.cache
+C:\Users\iorgo\OneDrive\Рабочий стол\Програмиране\dz\dz\obj\Debug\dz.csproj.CoreCompileInputs.cache
+C:\Users\iorgo\OneDrive\Рабочий стол\Програмиране\dz\dz\obj\Debug\dz.exe
+C:\Users\iorgo\OneDrive\Рабочий стол\Програмиране\dz\dz\obj\Debug\dz.pdb
